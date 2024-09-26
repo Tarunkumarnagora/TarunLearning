@@ -4,4 +4,4 @@ This is demo repository for leaning selenium automation with java
 leaning automatiuon and framework
 <br>
 testng, Maven
-author taun
+author taun   john week
